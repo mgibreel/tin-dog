@@ -59,7 +59,7 @@ p {
     transform: rotate(0deg);
     position: static;
   }
-  #title {text-align: center;
+  .headerparagraph {text-align: center;
   }
 
 }
